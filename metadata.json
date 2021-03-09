@@ -1,0 +1,7 @@
+{
+  "name": "batteryBuds",
+  "description": "display battery percentage of galaxy buds",
+  "uuid": "batteryBuds@gasr",
+  "shell-version": ["3.36.4"],
+  "version": 1
+}

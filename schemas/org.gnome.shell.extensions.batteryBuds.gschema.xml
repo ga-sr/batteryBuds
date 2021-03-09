@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema
+    id="org.gnome.shell.extensions.batteryBuds"
+    path="/org/gnome/shell/extensions/batteryBuds/">
+
+    <key type="i" name="interval">
+      <default>5</default>
+      <summary>Refresh interval (minutes)</summary>
+    </key>
+
+  </schema>
+
+</schemalist>
